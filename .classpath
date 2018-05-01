@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/kavyaka/Downloads/Automationjars/selenium-server-standalone-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kavyaka/Downloads/Automationjars/testng-6.14.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kavyaka/Downloads/Automationjars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kavyaka/Downloads/Automationjars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kavyaka/Downloads/Automationjars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kavyaka/Downloads/Automationjars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kavyaka/Downloads/Automationjars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kavyaka/Downloads/Automationjars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

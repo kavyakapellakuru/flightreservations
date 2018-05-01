@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="Flight Reservation">
+<test name = "trial">
+<classes>
+<class name="bootcamp_assignment.Login_TestNG"/>
+<class name="bootcamp_assignment.FlightFinder_TestNG"/>
+<class name="bootcamp_assignment.BookFlight_TestNG"/>
+</classes>
+</test>
+</suite>
